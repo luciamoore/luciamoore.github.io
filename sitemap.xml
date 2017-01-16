@@ -9,9 +9,30 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/01/15/hello-world/</loc>
+    <loc>http://yoursite.com/2016/12/05/mysql/</loc>
     
-    <lastmod>2017-01-15T12:22:33.780Z</lastmod>
+    <lastmod>2016-12-05T13:35:37.201Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/12/03/git/</loc>
+    
+    <lastmod>2016-12-03T08:03:53.798Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/11/24/sourcecodeGIT/</loc>
+    
+    <lastmod>2016-12-03T08:03:08.703Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/06/13/Keepalived/</loc>
+    
+    <lastmod>2016-11-23T14:46:35.498Z</lastmod>
     
   </url>
   
